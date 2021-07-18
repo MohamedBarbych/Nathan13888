@@ -38,18 +38,24 @@
 
 ## Here are some stats...
 
-<!-- Profile Stats -->
 <p align="center">
+  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/github-metrics.svg">
+</p>
+  
+<details>
+  <summary>Some more stats...</summary>
+  <br>
+  
+<p align="center">
+<!-- Profile Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&hide=stars&count_private=true&include_all_commits=true&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa">
-
 <!-- Github Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=ffffff&icon_color=fdaaaa">
-</p>
-
 <!-- Waka Weekly Languages-->
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nathan13888&langs_count=8&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa">
 </p>
+
+</details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
