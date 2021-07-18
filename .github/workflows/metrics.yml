@@ -85,3 +85,14 @@ jobs:
           plugin_topics_limit: 12
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
+
+      - name: 🈷️ Languages plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell
+          plugin_languages_limit: 8
