@@ -38,11 +38,26 @@
 
 ## Here are some stats...
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.classic.svg">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.achievements.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.wakatime.svg">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.isocalendar.svg">
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.classic.svg">
-  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.wakatime.svg">
-  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.achievements.svg">
-  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.isocalendar.svg">
   <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.reactions.svg">
 </p>
   
