@@ -21,14 +21,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
-          plugins_errors_fatal: ${{ github.repository == 'Nathan13888/Nathan13888' }}
-          output_action: pull-request
-          delay: 120
           
       - name: 🏆 Achievements
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
@@ -40,6 +38,7 @@ jobs:
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -48,6 +47,7 @@ jobs:
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
+          filename: metrics.plugin.reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_reactions: yes
           plugin_reactions_limit: 200                 # Compute reactions over last 200 issue comments
@@ -60,7 +60,8 @@ jobs:
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }} #${{ secrets.WAKATIME_TOKEN }}      # Required
           plugin_wakatime_days: 7                                   # Display last week stats
