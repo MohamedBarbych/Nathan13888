@@ -39,7 +39,11 @@
 ## Here are some stats...
 
 <p align="center">
-  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/github-metrics.svg">
+  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.classic.svg">
+  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.wakatime.svg">
+  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.achievements.svg">
+  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.isocalendar.svg">
+  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.reactions.svg">
 </p>
   
 <details>
