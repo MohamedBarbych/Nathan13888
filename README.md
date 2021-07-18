@@ -49,17 +49,23 @@
   </tr>
   <tr>
     <td align="center">
+      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.languages.svg">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.reactions.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.wakatime.svg">
     </td>
     <td align="center">
       <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.isocalendar.svg">
-    </td>
+    </td
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.reactions.svg">
-</p>
+<!-- <p align="center"></p> -->
   
 <details>
   <summary>Some more stats...</summary>
