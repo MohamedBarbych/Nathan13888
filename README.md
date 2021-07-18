@@ -64,5 +64,6 @@
 
 ### Things used in this README
 - [Visitor Badge Reloaded](https://github.com/Nathan13888/VisitorBadgeReloaded)
+- [Lowlighter's Metrics](https://github.com/lowlighter/metrics)
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
