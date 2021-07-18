@@ -19,7 +19,7 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
+          base: header, activity, community, repositories, metadata
           plugin_lines: yes
           
       - name: 🏆 Achievements
