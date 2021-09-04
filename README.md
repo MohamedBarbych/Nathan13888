@@ -17,7 +17,8 @@
 [![](https://img.shields.io/badge/Emulator-Alacritty-F46D01?labelColor=111111&style=flat-square&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
 [![](https://img.shields.io/badge/Terminal-ZSH-4EAA25?labelColor=111111&style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh)
 [![](https://img.shields.io/badge/Messaging-Discord-7289da?labelColor=111111&style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![](https://img.shields.io/badge/Messaging-Signal-2592E9?labelColor=111111&style=flat-square&logo=signal&logoColor=white)](https://www.signal.org/)
+[![](https://img.shields.io/badge/Messaging-Matrix-000000?labelColor=111111&style=flat-square&logo=matrix&logoColor=white)](https://matrix.com)
+<!--[![](https://img.shields.io/badge/Messaging-Signal-2592E9?labelColor=111111&style=flat-square&logo=signal&logoColor=white)](https://www.signal.org/)-->
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
