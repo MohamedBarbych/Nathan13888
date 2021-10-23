@@ -39,6 +39,8 @@
 
 ## Here are some stats...
 
+[![](https://wakatime.com/badge/user/ebadf288-2f58-4ca3-909d-c07fe49f4ae4.svg)](https://wakatime.com/@ebadf288-2f58-4ca3-909d-c07fe49f4ae4)
+
 <table>
   <tr>
     <td align="center">
@@ -65,26 +67,6 @@
     </td
   </tr>
 </table>
-
-<!-- <p align="center"></p> -->
-  
-<details>
-  <summary>Some more stats...</summary>
-  <br>
-  
-<p align="center">
-<!-- Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathan13888&show_icons=true&hide=stars&count_private=true&include_all_commits=true&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa">
-<!-- Github Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan13888&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=ffffff&icon_color=fdaaaa">
-<!-- Waka Weekly Languages-->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nathan13888&langs_count=8&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa">
-</p>
-
-</details>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
