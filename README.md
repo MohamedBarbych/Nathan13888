@@ -2,7 +2,7 @@
 <!--<img src="https://i.ibb.co/sg1PbY6/veI5xzMF.gif">-->
 <!--<h1><img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"> I'm Nathan~! <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" width="35"><h1>-->
 
-[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nathan13888-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Visitors&text=&color=ffffff&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
+[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nathan13888-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)](https://github.com/Nathan13888/VisitorBadgeReloaded)
 
 ## 🛠 Things I use...
 
@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Editor-Neovim-57A143?labelColor=111111&style=flat-square&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
 [![](https://img.shields.io/badge/Browser-Ungoogled_Chromium-4285F4?labelColor=111111&style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Eloston/ungoogled-chromium)
 
-[![](https://img.shields.io/badge/Emulator-Kitty-F46D01?labelColor=111111&style=flat-square&logo=windowsterminal&logoColor=white)](https://github.com/kovidgoyal/kitty)
+[![](https://img.shields.io/badge/Emulator-Kitty-784421?labelColor=111111&style=flat-square&logo=windowsterminal&logoColor=white)](https://github.com/kovidgoyal/kitty)
 [![](https://img.shields.io/badge/Terminal-ZSH-4EAA25?labelColor=111111&style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh)
 [![](https://img.shields.io/badge/Messaging-Discord-7289da?labelColor=111111&style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 [![](https://img.shields.io/badge/Messaging-Matrix-000000?labelColor=111111&style=flat-square&logo=matrix&logoColor=white)](https://matrix.com)
