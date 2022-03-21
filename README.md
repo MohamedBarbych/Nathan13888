@@ -6,7 +6,7 @@
 
 ## 🛠 Things I use...
 
-[![](https://img.shields.io/badge/OS-Arch-1793D1?labelColor=111111&style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![](https://img.shields.io/badge/OS-NixOS-5277C3?labelColor=111111&style=flat-square&logo=nixos&logoColor=white)](https://nixos.org/)
 [![](https://img.shields.io/badge/OS-Artix-10A0CC?labelColor=111111&style=flat-square&logo=artix-linux&logoColor=white)](https://artixlinux.org/)
 [![](https://img.shields.io/badge/Server_OS-Debian-A81D33?labelColor=111111&style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![](https://img.shields.io/badge/Server_OS-Alpine-0D597F?labelColor=111111&style=flat-square&logo=alpine-linux&logoColor=white)](https://alpinelinux.org/)
