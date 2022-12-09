@@ -8,11 +8,12 @@
 
 [![](https://img.shields.io/badge/OS-NixOS-5277C3?labelColor=111111&style=flat-square&logo=nixos&logoColor=white)](https://nixos.org/)
 [![](https://img.shields.io/badge/OS-Artix-10A0CC?labelColor=111111&style=flat-square&logo=artix-linux&logoColor=white)](https://artixlinux.org/)
-[![](https://img.shields.io/badge/Server_OS-Debian-A81D33?labelColor=111111&style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
-[![](https://img.shields.io/badge/Server_OS-Alpine-0D597F?labelColor=111111&style=flat-square&logo=alpine-linux&logoColor=white)](https://alpinelinux.org/)
+[![](https://img.shields.io/badge/OS-Debian-A81D33?labelColor=111111&style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
+[![](https://img.shields.io/badge/OS-Alpine-0D597F?labelColor=111111&style=flat-square&logo=alpine-linux&logoColor=white)](https://alpinelinux.org/)
 [![](https://img.shields.io/badge/Editor-VS_Code-007ACC?labelColor=111111&style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Neovim-57A143?labelColor=111111&style=flat-square&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
 <!--[![](https://img.shields.io/badge/Browser-Ungoogled_Chromium-4285F4?labelColor=111111&style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Eloston/ungoogled-chromium)-->
+[![](https://img.shields.io/badge/Browser-Firefox-FF7139?labelColor=111111&style=flat-square&logo=firefox&logoColor=white)]()
 
 [![](https://img.shields.io/badge/Emulator-Kitty-784421?labelColor=111111&style=flat-square&logo=windowsterminal&logoColor=white)](https://github.com/kovidgoyal/kitty)
 [![](https://img.shields.io/badge/Terminal-ZSH-4EAA25?labelColor=111111&style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh)
