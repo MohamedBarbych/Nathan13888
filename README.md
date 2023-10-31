@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<h3> 🚀 I 💖 Building | 🕵 Learning Things | 🛸  </h3>
+<h3> 🚀 I 💖 Building | 🛸 ∀AI | 🌱 Plants✨</h3>
 </div>
 
 
